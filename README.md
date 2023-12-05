@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KobiTheAnalyzer
 - 👀 I’m interested in analyzing Businesses, the Stock Market, and Real Estate
 - 🌱 I’m currently learning Advanced Python
-- 💞️ I’m looking to collaborate on Data Analysis dpojects
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me ... Shoot me a message here :)
 
 <!---
